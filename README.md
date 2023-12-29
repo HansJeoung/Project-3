@@ -14,6 +14,7 @@
 
 # Project Result
 - The Visitors' choice Award(78 votes, Second Ranker)
+
 *First Ranker(98 votes), Third Ranker(54 votes)*
 
 # The paper
