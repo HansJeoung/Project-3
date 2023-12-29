@@ -9,7 +9,7 @@
 - 2023.04 ~ 2023.11
 
 # Introcdution of team
-- Two business analytics students of  master corse
+- Two business analytics students of  master course
 
 - One computer science bachelor student
 
