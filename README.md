@@ -3,7 +3,7 @@
 - Description : AI competition hosted by the Ulsan National Institute of Science and Technology(UNIST).
 
 # Project Period
--2023.04 ~ 2023.11
+- 2023.04 ~ 2023.11
 
 # Introcdution of team
 - Two business analytics students of  master corse
@@ -18,13 +18,14 @@
 - 딥러닝을 활용한 자산분배 시스템(Journal of the Korea Industrial Information Systems Research)
 - 딥 러닝을 이용한 포트폴리오 구성 전략(Journal of Information Technology and Architecture)
 
-# Model(Using Hyperparameter)
-| Name | Accuracy | Auc_curve  | Best_score |
-| :------: | :------: | :------: | :------: |
-| DT | 0.75 | 0.79 | 0.78 |
-| RF | 0.77 | 0.78 | 0.75 |
-| GB | 0.79 | 0.79 | 0.82|
-| XGB | 0.78 | 0.8 | 0.83 |
-| LGB | 0.78 | 0.79 | 0.82 |
-| Stacking(LGB) | 0.78 | 0.79 | 0.8 |
+# How the project is run
+-
 
+# Limition of the project
+- 
+
+# Keyword
+- Original Autoencoder
+- Conditional Autoencoder
+- Sharpe Ratio
+- Deep Learning
