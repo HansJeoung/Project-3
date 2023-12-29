@@ -1,5 +1,6 @@
 # Project-Name and Description
 - Project Name : Trading system using two kinds of Autoencoder
+
   (Conditional Auto Encoder와 Original Autoencoder 을 이용한 주식 매매 전략 프로젝트).
   
 - Description : AI competition hosted by the Ulsan National Institute of Science and Technology(UNIST).
