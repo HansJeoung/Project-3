@@ -15,6 +15,7 @@
 
 # Project Result
 - The Visitors' choice Award(78 votes, Second Ranker)
+- Final_Poster(https://github.com/HansJeoung/Project-3/blob/main/Poster.pdf)
 
 *First Ranker(98 votes), Third Ranker(54 votes)*
 
